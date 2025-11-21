@@ -9,3 +9,5 @@ wheels/
 # Virtual environments
 .venv
 dataset/
+save_at*
+kt_logs/
