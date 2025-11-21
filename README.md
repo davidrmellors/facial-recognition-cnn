@@ -299,8 +299,9 @@ pillow>=10.0
 
 ## Author & Context
 
+**Author** David Roy Mellors, ST10241466
 **Course**: PDAN8412 - Portfolio of Evidence  
-**Institution**: [Your Institution]  
+**Institution**: The IIE's Varisty College  
 **Date**: November 2025  
 **Purpose**: Academic assessment demonstrating deep learning and big data processing skills
 
